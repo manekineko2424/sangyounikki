@@ -35,7 +35,7 @@ Takuya Oku（以下「開発者」）は、3行日記（以下「本アプリ」
 
 プライバシーポリシーに関するご質問は、下記までお問い合わせください。
 
-**Email:** taku.app.dev@gmail.com
+**Email:** okidoki.app.dev@gmail.com
 
 <br>
 
